@@ -20,7 +20,7 @@ public class AppConfig {
      * - "file:///android_asset/theme-demo.html" -> loads app/src/main/assets/theme-demo.html
      * - "file:///android_asset/app/index.html" -> loads app/src/main/assets/app/index.html
      */
-    public static final String TARGET_WEBSITE_URL = "https://google.com";
+    public static final String TARGET_WEBSITE_URL = "http://192.168.1.14:8090/display/";
     
     // ========================================
     // AUTO-GENERATED - DO NOT MODIFY BELOW
